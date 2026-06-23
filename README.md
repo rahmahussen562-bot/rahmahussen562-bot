@@ -1,191 +1,403 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahma%20Ahmed%20Hussein&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20Business%20Intelligence%20Specialist&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0ea5e9,100:8b5cf6&height=220&section=header&text=Rahma%20Ahmed%20Hussein&fontSize=46&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20BI%20Specialist&descSize=17&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Turning+Raw+Data+into+Decision-Ready+Insights;Building+ML+Pipelines+that+Deliver+Real+Impact;Bridging+AI+Research+%26+Business+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0ea5e9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%94%84+From+Raw+Data+%E2%86%92+Actionable+Insights;%F0%9F%A7%A0+ML+Pipelines+%7C+Power+BI+%7C+SQL+%7C+Deep+Learning;%F0%9F%8E%93+Mathematics+Graduate+%E2%86%92+AI+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rahmahussen562@gmail.com)](mailto:rahmahussen562@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/rahma-husseiin)](https://linkedin.com/in/rahma-husseiin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rahmahussen562-bot)](https://github.com/rahmahussen562-bot)
+<a href="mailto:rahmahussen562@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rahma-husseiin"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/rahmahussen562-bot"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=rahmahussen562-bot&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=rahmahussen562-bot&color=8b5cf6&style=for-the-badge&label=👀+Profile+Views" alt="Profile views"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt13/giphy.gif" width="30"> About Me
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      ABOUT ME                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-```sql
-SELECT * FROM data_analysts WHERE name = 'Rahma Ahmed Hussein';
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt13/giphy.gif" width="35"> Who Am I?
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Hey there! I'm **Rahma**
+
+I'm a **Data Analyst & AI Engineer** from **Banha, Egypt** 🇪🇬 — a Mathematics graduate who fell in love with the stories hidden inside datasets.
+
+Currently training at **Egypt's Military Technical College** under the national **MCIT Digilians Initiative**, where I'm building real-world AI solutions that bridge the gap between academic research and production-ready systems.
+
+**What I bring to the table:**
+
+🔹 **Full Analytics Lifecycle** — from raw messy data to executive dashboards that drive decisions
+🔹 **ML Engineering** — end-to-end pipelines with fairness analysis, not just accuracy scores
+🔹 **Deep Learning + XAI** — models that don't just predict, but *explain why*
+🔹 **SQL Mastery** — recursive CTEs, window functions, and 12+ entity normalized schemas
+🔹 **Business Intelligence** — Power BI dashboards that stakeholders actually use
+
+> *"I don't just analyze data — I translate it into the language of decisions."*
+
+</td>
+<td width="40%" valign="top">
+
+```
+┌─────────────────────────────────┐
+│  🎯 QUICK SNAPSHOT              │
+├─────────────────────────────────┤
+│                                 │
+│  📍  Banha, Egypt               │
+│  🎓  B.Sc. Mathematics          │
+│  📜  AI Diploma (MTC/MCIT)      │
+│  💼  AI Engineer @ Digilians    │
+│  🏅  Microsoft PL-300 Certified │
+│                                 │
+│  ─────────────────────────────  │
+│                                 │
+│  📊  4 Production Projects      │
+│  🧠  90%+ Model Accuracy        │
+│  ⚡  92× Latency Speedup        │
+│  📈  119K+ Records Analyzed     │
+│  🏗️  12+ Entity DB Schemas      │
+│  📋  9 Professional Certs       │
+│                                 │
+└─────────────────────────────────┘
 ```
 
-| Column             | Value                                                                                         |
-|--------------------|-----------------------------------------------------------------------------------------------|
-| 🎯 **Role**        | Data Analyst & AI Engineer                                                                    |
-| 📍 **Location**    | Banha, Egypt                                                                                  |
-| 🎓 **Education**   | B.Sc. Mathematics (Banha University) + Specialist Diploma in Applied AI (MTC / MCIT Digilians)|
-| 💼 **Current**     | AI Engineer Trainee @ Digilians (MCIT National Initiative)                                    |
-| 🔬 **Focus**       | ML Pipelines · Power BI · SQL · Deep Learning · RAG/LLM                                      |
-| 🌱 **Philosophy**  | *"Data is the new oil, but insights are the refined fuel."*                                   |
+</td>
+</tr>
+</table>
 
 <br/>
 
-> I'm a **Data Analyst and Applied AI practitioner** with a rigorous Mathematics foundation and specialized training from Egypt's **Military Technical College** (in collaboration with MCIT). I operate across the full analytics lifecycle — from **relational database design** and **advanced SQL**, through **Python-based EDA** and **ML modeling**, to **executive Power BI dashboards**. I turn raw, multi-source data into accurate, decision-ready insights and clear visual narratives.
+### 🧭 My Journey So Far
+
+```
+   Mathematics          Data Analytics         AI Engineering         What's Next?
+   Foundation           & Internships          & Deep Learning        ──────────►
+       │                      │                       │
+       ▼                      ▼                       ▼
+  ┌─────────┐           ┌──────────┐           ┌───────────┐
+  │ B.Sc.   │    ──►    │ Pear &   │    ──►    │ Digilians │    ──►    🚀
+  │ Math    │           │ Code     │           │ MCIT/MTC  │
+  │ 2023    │           │ Clouders │           │ Present   │
+  └─────────┘           └──────────┘           └───────────┘
+   Banha Univ.           2 Internships          Applied AI
+   Very Good             SQL · Python · BI      LLM · RAG · MLOps
+```
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     IMPACT NUMBERS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30"> Impact At a Glance
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧠_Models-8+-blueviolet?style=for-the-badge"/><br/>
+<sub><b>Benchmarked & Deployed</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📊_Records-119K+-0ea5e9?style=for-the-badge"/><br/>
+<sub><b>Analyzed & Modeled</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡_Speedup-92×-22c55e?style=for-the-badge"/><br/>
+<sub><b>Latency Reduction</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏅_Certs-9-f59e0b?style=for-the-badge"/><br/>
+<sub><b>Professional Certs</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5qYIGhgLj3qM/giphy.gif" width="30"> Tech Stack
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      TECH STACK                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+## <img src="https://media.giphy.com/media/W5qYIGhgLj3qM/giphy.gif" width="30"> Tech Arsenal
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **ML & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
-| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Deep Learning** | ![Xception](https://img.shields.io/badge/Xception-Transfer%20Learning-green?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-Architecture-orange?style=flat-square) ![Grad--CAM](https://img.shields.io/badge/Grad--CAM-XAI-purple?style=flat-square) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37628?style=flat-square&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Data Engineering** | ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=flat-square) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Data%20Modeling](https://img.shields.io/badge/Data%20Modeling-3NF-red?style=flat-square) |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-</div>
+**🐍 Languages & Querying**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+
+**🤖 Machine Learning & AI**
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Orange-Data%20Mining-F9A825?style=flat-square"/>
+
+**🧠 Deep Learning & XAI**
+<br/>
+<img src="https://img.shields.io/badge/Xception-Green?style=flat-square"/>
+<img src="https://img.shields.io/badge/EfficientNet-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNNs-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Grad--CAM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-ImageNet-blue?style=flat-square"/>
+
+</td>
+<td valign="top" width="50%">
+
+**📊 BI & Visualization**
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+
+**🗄️ Data Engineering**
+<br/>
+<img src="https://img.shields.io/badge/ETL-Pipelines-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-3NF-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/SMOTE-Class%20Balance-9333ea?style=flat-square"/>
+
+**🛠️ Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37628?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    FEATURED PROJECTS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Featured Projects
 
 <br/>
 
-### <img src="https://media.giphy.com/media/L1R1h7yJ5Ki4FpT4RD/giphy.gif" width="25"> HYDRA-Net — Cascaded Multimodal Counter-UAV Detection
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *A three-stage cascaded architecture for real-time drone detection with 92× latency speedup*
+### 🛰️ HYDRA-Net
+#### Cascaded Multimodal Counter-UAV Detection
 
-[![Repo](https://img.shields.io/badge/Repo-HYDRA--Net-181717?style=flat-square&logo=github)](https://github.com/kahledawad2019-netizen/hydra-net)
+> A three-stage cascaded architecture for **real-time drone detection** — achieving **92× latency speedup** while preserving 97.9% accuracy.
 
-- 🏗️ Designed a **three-stage cascaded architecture**: XGBoost RF triage → Cross-modal Transformer → Swarm-reasoning Graph Neural Network
-- 📊 Stage 1 achieved **90.07% accuracy**, **0.90 macro-F1**, and **0.98 ROC-AUC** on Kaggle RF-Signals dataset
-- ⚡ Delivered **91.9× median-latency speedup** (p50 = 1.10ms vs 101ms baseline) with 71% early exits at τ=0.95
-- 🧪 Packaged with 14 unit tests, 4 reproducibility notebooks, FastAPI endpoints, and full architecture docs
+[![Repo](https://img.shields.io/badge/View_Project→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kahledawad2019-netizen/hydra-net)
 
-`Python` `PyTorch` `XGBoost` `Graph Neural Networks` `FastAPI` `SHAP`
+| Metric | Value |
+|--------|-------|
+| Accuracy | **90.07%** |
+| Macro-F1 | **0.90** |
+| ROC-AUC | **0.98** |
+| Speedup | **91.9×** (1.10ms vs 101ms) |
+
+`PyTorch` `XGBoost` `GNN` `FastAPI` `SHAP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 MindScan
+#### Brain Tumor MRI Classification with XAI
+
+> Deep-learning classifier for **4 brain tumor types** with **Grad-CAM explainability** — every prediction comes with a visual explanation.
+
+[![Repo](https://img.shields.io/badge/View_Project→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmahussen562-bot/brain-tumor-detection)
+
+| Feature | Detail |
+|---------|--------|
+| Classes | **4** (glioma, meningioma, pituitary, none) |
+| Model | **Xception** (ImageNet pretrained) |
+| Input | **299×299** MRI scans |
+| XAI | **Grad-CAM & Grad-CAM++** |
+
+`TensorFlow` `Keras` `OpenCV` `Tkinter`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Body Performance ML
+#### End-to-End Classification Pipeline
+
+> Predicting body performance grades (A–D) from fitness metrics with **fairness analysis** and **deployment-ready artifacts**.
+
+[![Repo](https://img.shields.io/badge/View_Project→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmahussen562-bot/body-performance-classification)
+
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | **~87.6%** |
+| CV Score | **~85%** |
+| Gender Bias Gap | **~0.4%** |
+| Top Predictor | **Grip Strength** |
+
+`scikit-learn` `SMOTE` `Streamlit` `Docker` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel PMS
+#### Full-Stack Data Pipeline Capstone
+
+> End-to-end hotel analytics: **normalized database** → **EDA** → **ML predictions** → **Power BI dashboards**.
+
+[![Repo](https://img.shields.io/badge/View_Project→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmahussen562-bot/hotel-reservation-billing-management2)
+
+| Metric | Value |
+|--------|-------|
+| DB Entities | **12+** (3NF normalized) |
+| Records Analyzed | **119,390** |
+| ML Models Tested | **8** |
+| Best Model | **Random Forest (81%)** |
+
+`SQL Server` `T-SQL` `Python` `Orange` `Power BI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"> MindScan — Brain Tumor MRI Classification with XAI
-
-> *Deep-learning brain tumor classifier with Grad-CAM explainability and desktop GUI*
-
-[![Repo](https://img.shields.io/badge/Repo-MindScan-181717?style=flat-square&logo=github)](https://github.com/rahmahussen562-bot/brain-tumor-detection)
-
-- 🧠 Classifies brain MRI into **4 categories**: glioma, meningioma, pituitary tumor, and no tumor
-- 🔬 Fine-tuned **Xception** backbone (ImageNet weights) at 299×299 resolution with custom classification head
-- 🔍 **Grad-CAM & Grad-CAM++** heatmaps for every prediction — clinical-grade explainability
-- 🖥️ Tkinter desktop app (**MindScan**) for one-click predictions with visual explanations
-- 📏 Post-hoc tumor **size and location measurement** notebook included
-
-`TensorFlow` `Keras` `Xception` `OpenCV` `Grad-CAM` `Tkinter`
-
----
-
-### <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"> Body Performance Classification — End-to-End ML Pipeline
-
-> *Classifying human body performance grades with fairness analysis and deployment-ready artifacts*
-
-[![Repo](https://img.shields.io/badge/Repo-Body%20Performance-181717?style=flat-square&logo=github)](https://github.com/rahmahussen562-bot/body-performance-classification)
-
-- 🏋️ Predicts body performance grades (A–D) from fitness metrics: age, grip strength, flexibility, reps
-- 📈 Achieved **~87.6% test accuracy** with **~85% cross-validation** score
-- ⚖️ Fairness analysis across gender groups with **minimal bias (~0.4% gap)**
-- 🔑 Identified **grip strength** as the #1 predictor via feature importance analysis
-- 🐳 Full deployment stack: Dockerfile, Streamlit app, CI/CD pipeline, saved model artifacts
-
-`Python` `scikit-learn` `SMOTE` `Streamlit` `Docker` `GitHub Actions`
-
----
-
-### <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="25"> Hotel Property Management System — Data Pipeline Capstone
-
-> *Full-stack hotel analytics: normalized DB → EDA → ML predictions → Power BI dashboards*
-
-[![Repo](https://img.shields.io/badge/Repo-Hotel%20PMS-181717?style=flat-square&logo=github)](https://github.com/rahmahussen562-bot/hotel-reservation-billing-management2)
-
-- 🗄️ Designed normalized (3NF) relational database with **12+ entities** covering the full hotel lifecycle
-- 📊 Engineered **10 analytical SQL solutions** using views, recursive CTEs, and window functions
-- 🤖 Benchmarked **8 ML models** — Random Forest achieved best at **81% accuracy** for cancellation prediction
-- 📈 Interactive **Power BI dashboard** tracking occupancy, revenue, payment mix, and housekeeping KPIs
-- 🔍 EDA on **119,390 booking records** to surface data quality issues and cancellation patterns
-
-`SQL Server` `T-SQL` `Python` `Orange` `Power BI` `pandas`
-
----
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     CERTIFICATIONS                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## <img src="https://media.giphy.com/media/MDkfeJqqcOeyA/giphy.gif" width="30"> Certifications
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-| Certification | Provider |
-|:-------------|:---------|
-| 🏅 **Microsoft Certified: PL-300** Power BI Data Analyst Associate | Microsoft |
-| 📊 Google Data Analytics Professional Certificate | Coursera |
-| 🤖 IBM AI Engineering Professional Certificate | Coursera |
-| 📈 Data Analysis Professional Nanodegree | Udacity |
-| 🧮 Mathematics for Machine Learning | Coursera |
-| 🐍 Data Analysis with Python | IBM |
-| 🗃️ SQL Server | Udemy |
+| 🏅 | Certification | Provider |
+|:---:|:-------------|:---------|
+| ⭐ | **Microsoft Certified: PL-300** Power BI Data Analyst Associate | Microsoft |
+| 📊 | Google Data Analytics Professional Certificate | Coursera |
+| 🤖 | IBM AI Engineering Professional Certificate | Coursera |
+| 📈 | Data Analysis Professional Nanodegree | Udacity |
+| 🧮 | Mathematics for Machine Learning | Coursera |
+| 🐍 | Data Analysis with Python | IBM |
+| 📋 | Introduction to Data Analytics | IBM |
+| 🗃️ | SQL Server | Udemy |
+| 🏃 | Delivering Quality Work with Agility | Coursera |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    GITHUB ANALYTICS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## <img src="https://media.giphy.com/media/836HiJc7bzyTA/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahmahussen562-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahmahussen562-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmahussen562-bot&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmahussen562-bot&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmahussen562-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/NjAZzHmycLqBDuoLjY/giphy.gif" width="30"> Experience Timeline
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    EXPERIENCE                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-```
-📅 Dec 2025 – Present   AI Engineer Trainee — Digilians (MCIT National Initiative)
-📅 Feb 2025 – Apr 2025  Data Analyst Intern — Pear
-📅 Nov 2024 – Jan 2025  Data Analyst Intern — Code Clouders
-📅 2023                 B.Sc. Mathematics — Banha University (Very Good)
-📅 In Progress          Specialist Diploma in Applied AI — MTC / MCIT Digilians
-```
+## <img src="https://media.giphy.com/media/NjAZzHmycLqBDuoLjY/giphy.gif" width="30"> Experience & Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Professional
+
+**🤖 AI Engineer Trainee** — Digilians (MCIT)
+`Dec 2025 – Present`
+> Training in applied AI engineering, ML workflows, and modern LLM/RAG techniques within Egypt's national MCIT program.
+
+**📊 Data Analyst Intern** — Pear
+`Feb 2025 – Apr 2025`
+> Data cleansing, transformation, and analysis on large databases. ETL processes and complex SQL queries.
+
+**📊 Data Analyst Intern** — Code Clouders
+`Nov 2024 – Jan 2025`
+> Built Power BI dashboards, SQL queries, and Python automation scripts for business reporting.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**📜 Specialist Diploma in Applied AI & Data Analysis**
+`In Progress`
+> Military Technical College (MTC) — Dept. of Computer Engineering & AI
+> In collaboration with MCIT (Digilians Initiative)
+
+**🎓 B.Sc. in Science & Education — Mathematics**
+`2023`
+> Banha University — Grade: Very Good
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/78XCFBGOlS6keY1U4J/giphy.gif" width="30"> Let's Connect
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    LET'S CONNECT                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmahussen562@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-husseiin)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmahussen562-bot)
+## <img src="https://media.giphy.com/media/78XCFBGOlS6keY1U4J/giphy.gif" width="30"> Let's Connect
 
 <br/>
 
+*I'm always open to discussing data, AI, and new opportunities.*
+
+<a href="mailto:rahmahussen562@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rahma-husseiin"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/rahmahussen562-bot"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
 *"Every dataset has a story. I make sure the right people hear it."*
 
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/rahmahussen562-bot/rahmahussen562-bot/output/github-snake.svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0ea5e9,100:8b5cf6&height=100&section=footer" width="100%"/>
+
 </div>
-
----
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
